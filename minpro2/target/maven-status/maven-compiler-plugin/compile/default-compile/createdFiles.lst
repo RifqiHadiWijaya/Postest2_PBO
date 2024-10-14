@@ -1,0 +1,7 @@
+main\program\Main.class
+inventaris\BarangElektronik.class
+inventaris\Pakaian.class
+inventaris\Barang.class
+inventaris\BarangNonElektronik.class
+inventaris\Crud.class
+inventaris\ManajemenInventaris.class
